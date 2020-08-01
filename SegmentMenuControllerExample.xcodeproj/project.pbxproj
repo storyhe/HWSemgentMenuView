@@ -13,6 +13,7 @@
 		4EE8B8B324D52C800062EFF1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4EE8B8B124D52C800062EFF1 /* Main.storyboard */; };
 		4EE8B8B524D52C830062EFF1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4EE8B8B424D52C830062EFF1 /* Assets.xcassets */; };
 		4EE8B8B824D52C830062EFF1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4EE8B8B624D52C830062EFF1 /* LaunchScreen.storyboard */; };
+		4EE8B8C224D52D1C0062EFF1 /* HWSemgentMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EE8B8C124D52D1C0062EFF1 /* HWSemgentMenuView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4EE8B8B424D52C830062EFF1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4EE8B8B724D52C830062EFF1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4EE8B8B924D52C830062EFF1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4EE8B8C124D52D1C0062EFF1 /* HWSemgentMenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HWSemgentMenuView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				4EE8B8AB24D52C800062EFF1 /* AppDelegate.swift */,
 				4EE8B8AD24D52C800062EFF1 /* SceneDelegate.swift */,
 				4EE8B8AF24D52C800062EFF1 /* ViewController.swift */,
+				4EE8B8C124D52D1C0062EFF1 /* HWSemgentMenuView.swift */,
 				4EE8B8B124D52C800062EFF1 /* Main.storyboard */,
 				4EE8B8B424D52C830062EFF1 /* Assets.xcassets */,
 				4EE8B8B624D52C830062EFF1 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				4EE8B8B024D52C800062EFF1 /* ViewController.swift in Sources */,
 				4EE8B8AC24D52C800062EFF1 /* AppDelegate.swift in Sources */,
+				4EE8B8C224D52D1C0062EFF1 /* HWSemgentMenuView.swift in Sources */,
 				4EE8B8AE24D52C800062EFF1 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

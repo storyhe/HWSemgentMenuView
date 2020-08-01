@@ -1,5 +1,6 @@
 ### HWSemgentMenuView
 
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fba2c5v%2FbtqF9DegbAn%2FPOGSgz9rZk8wM6h1GHlCgk%2Fimg.gif)
 
 많은 메뉴를 표시해야할 일이 많아져서 만들어 본것... 인데
 > 주의: 외부 공개용으로 **잘** 만들어진게 아니라, 개인적인 제작 레벨이라 좀 코드가 더럽습니다.
@@ -8,7 +9,8 @@
 
 ### HOW TO USE
 
-HWSemgentMenuView 상속이라 UI 빌더에서는 UIView 배치후 클래스명만 교체하면 됩니다. (@IBDesignable 은 따로 추가하지 않았습니다.)
+UIView 상속이라 UI 빌더에서는 UIView 배치후 클래스명만 교체하면 됩니다.
+>  (@IBDesignable 은 따로 추가하지 않았습니다.)
 
 - font (UIFont): 해당 메뉴의 기본 폰트를 지정합니다. 미지정시 기본은  `UIFont.systemFont(ofSize: 15)` 으로 구성 되어있습니다.
 - menuColor: 버튼(메뉴들)의 기본 색상 폰트입니다. 기본은 `UIColor.black` 으로 지정되어있음
